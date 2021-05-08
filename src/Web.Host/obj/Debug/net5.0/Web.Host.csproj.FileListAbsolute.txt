@@ -1,0 +1,6 @@
+F:\Code\MyCode\Module.Template\src\Web.Host\obj\Debug\net5.0\Web.Host.csprojAssemblyReference.cache
+F:\Code\MyCode\Module.Template\src\Web.Host\obj\Debug\net5.0\Web.Host.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\MyCode\Module.Template\src\Web.Host\obj\Debug\net5.0\Web.Host.AssemblyInfoInputs.cache
+F:\Code\MyCode\Module.Template\src\Web.Host\obj\Debug\net5.0\Web.Host.AssemblyInfo.cs
+F:\Code\MyCode\Module.Template\src\Web.Host\obj\Debug\net5.0\Web.Host.csproj.CoreCompileInputs.cache
+F:\Code\MyCode\Module.Template\src\Web.Host\obj\Debug\net5.0\Web.Host.MvcApplicationPartsAssemblyInfo.cache
