@@ -1,0 +1,12 @@
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\Web.csprojAssemblyReference.cache
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfoInputs.cache
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfo.cs
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\Web.csproj.CoreCompileInputs.cache
+F:\Code\MyCode\Module.Template\Modules\Web\bin\Debug\netcoreapp3.1\Web.Framework.dll
+F:\Code\MyCode\Module.Template\Modules\Web\bin\Debug\netcoreapp3.1\Web.Framework.pdb
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\Web.csproj.CopyComplete
+F:\Code\MyCode\Module.Template\Modules\Web\bin\Debug\netcoreapp3.1\NetModular.Module.Admin.Web.deps.json
+F:\Code\MyCode\Module.Template\Modules\Web\bin\Debug\netcoreapp3.1\NetModular.Module.Admin.Web.dll
+F:\Code\MyCode\Module.Template\Modules\Web\bin\Debug\netcoreapp3.1\NetModular.Module.Admin.Web.pdb
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\NetModular.Module.Admin.Web.dll
+F:\Code\MyCode\Module.Template\Modules\Web\obj\Debug\netcoreapp3.1\NetModular.Module.Admin.Web.pdb

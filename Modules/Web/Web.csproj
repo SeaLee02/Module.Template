@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>NetModular.Module.Admin.Web</AssemblyName>
+    <RootNamespace>NetModular.Module.Admin.Web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Web.Framework\Web.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
