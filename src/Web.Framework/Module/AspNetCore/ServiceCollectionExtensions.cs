@@ -19,10 +19,10 @@ namespace Web.Framework.Module.AspNetCore
         public static IModuleCollection AddModules(this IServiceCollection services)
         {
             var modules = new ModuleCollection();
+            //加载所有的模块
             modules.Load();
-
+            //注入
             services.AddSingleton<IModuleCollection>(modules);
-
             foreach (var module in modules)
             {
                 if (module == null)

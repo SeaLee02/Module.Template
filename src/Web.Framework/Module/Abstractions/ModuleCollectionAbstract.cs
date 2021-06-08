@@ -8,6 +8,9 @@ using Web.Framework.Util;
 
 namespace Web.Framework.Module.Abstractions
 {
+    /// <summary>
+    /// 模块集合抽象类
+    /// </summary>
     public abstract class ModuleCollectionAbstract : CollectionAbstract<IModuleDescriptor>, IModuleCollection
     {
 
@@ -18,10 +21,15 @@ namespace Web.Framework.Module.Abstractions
         /// <param name="jsonReader"></param>
         protected abstract void LoadDescriptor(DirectoryInfo moduleDir, StreamReader jsonReader);
 
+        /// <summary>
+        /// 加载集合
+        /// </summary>
         public void Load()
         {
+            //先清空所有的集合
             Collection.Clear();
-
+            
+            //读取json文件
             var modulesRootDirPath = Path.Combine(AppContext.BaseDirectory, "_modules");
             if (!Directory.Exists(modulesRootDirPath))
                 return;

@@ -10,6 +10,9 @@ using Web.Framework.Util;
 
 namespace Web.Framework.Module.AspNetCore
 {
+    /// <summary>
+    /// 模块集合
+    /// </summary>
     public class ModuleCollection : ModuleCollectionAbstract
     {
 

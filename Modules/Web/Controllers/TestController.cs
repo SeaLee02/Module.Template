@@ -24,7 +24,8 @@ namespace Web.Controllers
         [HttpGet]
         public async Task<IActionResult> GetName()
         {
-            return await Task.FromResult(Ok("goof"));
+            UInt64 i = 5394703153207343904;
+            return await Task.FromResult(Ok(i));
         }
 
 

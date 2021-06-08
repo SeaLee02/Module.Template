@@ -45,7 +45,7 @@ namespace Web.Framework.Module.AspNetCore
         public IModuleAssemblyDescriptor AssemblyDescriptor { get; set; }
 
         /// <summary>
-        /// 初始化
+        /// 初始化类型
         /// </summary>
         public IModuleInitializer Initializer { get; set; }
     }
